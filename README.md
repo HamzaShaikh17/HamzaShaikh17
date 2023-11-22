@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on :
      - TEXT TO SPEECH : Voice Cloning - Personalised voice of the person from given text
      - GENERATIVE AI : Conversational chat using LLMs
 - 🌱 I’m currently learning
@@ -13,9 +13,15 @@ Here are some ideas to get you started:
      - ML project
      - libraries
      - Research papers
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
+- 🤔 I’m looking for help with
+     - Connecting to peers for effecient learning  
+- 💬 Ask me about :
+     - Machine Learning
+     - Deep Learning
+     - Generative AI
+     - Collaboration in interesting projects
+     - Mental Peace 
+- 📫 How to reach me :
      - LinkedIN : https://www.linkedin.com/in/hamza-shaikh-7386a1189/
      - Mail : hs.hamza1702@gmail.com 
 - 😄 Pronouns: MR / He / Him (HAMZA...)
