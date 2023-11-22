@@ -1,7 +1,5 @@
 ### Welcome to my Github Repo. 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on :
      - TEXT TO SPEECH : Voice Cloning - Personalised voice of the person from given text
      - GENERATIVE AI : Conversational chat using LLMs
