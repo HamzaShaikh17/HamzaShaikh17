@@ -1,5 +1,10 @@
 ### Welcome to my Github Repo. 👋
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=HamzaShaikh17&count_private=true&show_icons=true&layout=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaShaikh17&layout=compact)
+
+
 - 🔭 I’m currently working on :
      - TEXT TO SPEECH : Voice Cloning - Personalised voice of the person from given text
      - GENERATIVE AI : Conversational chat using LLMs
